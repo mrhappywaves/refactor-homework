@@ -6,4 +6,4 @@ With this project the following refactor items were done:
 3. Accessible Alt attributes were added to images. 
 4. The headings attributes were structured in sequential order.
 5. A concise descriptive page title was added. 
-6. Media queries allowing for better user experience were added to breaking points of the page at 1024px and 768px widths. 
+6. Media queries allowing for better user experience were added to breaking points of the page at 1024px and 768px display widths. 
